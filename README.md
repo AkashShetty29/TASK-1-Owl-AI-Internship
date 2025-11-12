@@ -11,7 +11,7 @@ This repository contains my comprehensive research on the role, responsibilities
 - A short Q&A section to demonstrate understanding
 
 ## 📄 Deliverable
-- **[OWL-Ai-Task-1.pdf](OWL Ai Task 1.pdf)** - Comprehensive 7-page research document covering all required aspects
+- **[Task1-Java-Developer-Research/OWL-Ai-Task-1.pdf](OWL-Ai-Task-1.pdf)** - Comprehensive 7-page research document covering all required aspects
 
 ## 🎯 Research Content Summary
 
